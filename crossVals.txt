@@ -1,0 +1,147 @@
+---------- Cross validation Results ----------
+
+MaxIters = 10
+regParam = 0.05
+elasticNetParam = 0.3
+Accuracy = 0.625
+
+MaxIters = 10
+regParam = 0.05
+elasticNetParam = 0.5
+Accuracy = 0.7
+
+MaxIters = 10
+regParam = 0.05
+elasticNetParam = 0.7
+Accuracy = 0.8
+
+MaxIters = 10
+regParam = 0.1
+elasticNetParam = 0.3
+Accuracy = 0.8285714285714286
+
+MaxIters = 10
+regParam = 0.1
+elasticNetParam = 0.5
+Accuracy = 0.7297297297297297
+
+MaxIters = 10
+regParam = 0.1
+elasticNetParam = 0.7
+Accuracy = 0.7741935483870968
+
+MaxIters = 10
+regParam = 0.2
+elasticNetParam = 0.3
+Accuracy = 0.7352941176470589
+
+MaxIters = 10
+regParam = 0.2
+elasticNetParam = 0.5
+Accuracy = 0.75
+
+MaxIters = 10
+regParam = 0.2
+elasticNetParam = 0.7
+Accuracy = 0.8620689655172413
+
+MaxIters = 20
+regParam = 0.05
+elasticNetParam = 0.3
+Accuracy = 0.7307692307692307
+
+MaxIters = 20
+regParam = 0.05
+elasticNetParam = 0.5
+Accuracy = 0.8285714285714286
+
+MaxIters = 20
+regParam = 0.05
+elasticNetParam = 0.7
+Accuracy = 0.7096774193548387
+
+MaxIters = 20
+regParam = 0.1
+elasticNetParam = 0.3
+Accuracy = 0.7692307692307693
+
+MaxIters = 20
+regParam = 0.1
+elasticNetParam = 0.5
+Accuracy = 0.8260869565217391
+
+MaxIters = 20
+regParam = 0.1
+elasticNetParam = 0.7
+Accuracy = 0.7272727272727273
+
+MaxIters = 20
+regParam = 0.2
+elasticNetParam = 0.3
+Accuracy = 0.782608695652174
+
+MaxIters = 20
+regParam = 0.2
+elasticNetParam = 0.5
+Accuracy = 0.7714285714285715
+
+MaxIters = 20
+regParam = 0.2
+elasticNetParam = 0.7
+Accuracy = 0.8333333333333334
+
+MaxIters = 30
+regParam = 0.05
+elasticNetParam = 0.3
+Accuracy = 0.7777777777777778
+
+MaxIters = 30
+regParam = 0.05
+elasticNetParam = 0.5
+Accuracy = 0.8571428571428571
+
+MaxIters = 30
+regParam = 0.05
+elasticNetParam = 0.7
+Accuracy = 0.7741935483870968
+
+MaxIters = 30
+regParam = 0.1
+elasticNetParam = 0.3
+Accuracy = 0.8
+
+MaxIters = 30
+regParam = 0.1
+elasticNetParam = 0.5
+Accuracy = 0.7083333333333334
+
+MaxIters = 30
+regParam = 0.1
+elasticNetParam = 0.7
+Accuracy = 0.8181818181818182
+
+MaxIters = 30
+regParam = 0.2
+elasticNetParam = 0.3
+Accuracy = 0.85
+
+MaxIters = 30
+regParam = 0.2
+elasticNetParam = 0.5
+Accuracy = 0.7142857142857143
+
+MaxIters = 30
+regParam = 0.2
+elasticNetParam = 0.7
+Accuracy = 0.7586206896551724
+
+
+
+
+
+
+
+
+
+
+
