@@ -1,14 +1,3 @@
-------- Final Project README -------
-In this folder, you will see 5 things. 
-
-1) Source Code (This directory will have the source code for the project)
-   - diabeticRetinopathy.py (main code, and will output accuracy after running)
-   - paramTuning.py (code to find the the best parameters for model)
-   - crossVals.py (the cross validation results with accuracy for every combination of params)
-2) Report (This directory will have the report for our project)
-3) video_ajay-krishanavajjala_arun-krishnavajjala.txt (has link of our video)
-4) data-url.txt (link to data for our project)
-5) readme.txt (this file, which is the readme for the project)
 
 Running the Project:
 
@@ -77,7 +66,3 @@ wheel              0.36.0
 wrapt              1.12.1   
 wurlitzer          2.0.1    
 zipp               1.2.0 
-
-
-Ajay e-mail: akrish@gmu.edu
-Arun e-mail: akrishn@gmu.edu
